@@ -4,7 +4,7 @@
   <artifactId>coba</artifactId>
   <version>0.3.5</version> 
 
-<dependencies>
+<dependencies> 
   <dependency>
     <groupId>junit</groupId>
     <artifactId>junit</artifactId>
